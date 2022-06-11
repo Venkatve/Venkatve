@@ -8,7 +8,7 @@
 - 👯 I’m looking for job as web designer/developer.
 - 💬 Ask me about anything.
 - 📫 venkat.ve.9@gmail.com.
-- ⚡ Fun fact: Still I don't hava job 😅.
+
 
 ## ⚡ Things I do with
 
