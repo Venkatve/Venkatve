@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi!  👋</h1>
 
-<p align="center" >I'm VENKATRAMAN, MERN stack developer from Tamil Nadu.</b> 
+<p align="center" >I'm VENKATRAMAN, Front End Developer from Tamil Nadu.</b> 
 </p>
 
 
-- 🌱 I’m currently learning MERN Stack Developement.
+- 🌱 I’m a Front End Developer.
 - 👯 I’m looking for job as web designer/developer.
 - 💬 Ask me about anything.
 - 📫 venkat.ve.9@gmail.com.
